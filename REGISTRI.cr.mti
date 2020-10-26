@@ -1,0 +1,29 @@
+{C:/Users/herbi/OneDrive/Desktop/Anul 3 sem 2/CLP/Laborator/L5/[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A/REGISTRI/test_sreg.v} {1 {vlog -work work -vopt -nocovercells {C:/Users/herbi/OneDrive/Desktop/Anul 3 sem 2/CLP/Laborator/L5/[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A/REGISTRI/test_sreg.v}
+Model Technology ModelSim SE vlog 6.6a Compiler 2010.03 Mar 19 2010
+-- Compiling module test_sreg
+
+Top level modules:
+	test_sreg
+
+} {} {}} {C:/Users/herbi/OneDrive/Desktop/Anul 3 sem 2/CLP/Laborator/L5/[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A/REGISTRI/dff.v} {1 {vlog -work work -vopt -nocovercells {C:/Users/herbi/OneDrive/Desktop/Anul 3 sem 2/CLP/Laborator/L5/[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A/REGISTRI/dff.v}
+Model Technology ModelSim SE vlog 6.6a Compiler 2010.03 Mar 19 2010
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} {C:/Users/herbi/OneDrive/Desktop/Anul 3 sem 2/CLP/Laborator/L5/[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A/REGISTRI/test_bench_sreg.v} {1 {vlog -work work -vopt -nocovercells {C:/Users/herbi/OneDrive/Desktop/Anul 3 sem 2/CLP/Laborator/L5/[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A/REGISTRI/test_bench_sreg.v}
+Model Technology ModelSim SE vlog 6.6a Compiler 2010.03 Mar 19 2010
+-- Compiling module test_bench_sreg
+
+Top level modules:
+	test_bench_sreg
+
+} {} {}} {C:/Users/herbi/OneDrive/Desktop/Anul 3 sem 2/CLP/Laborator/L5/[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A/REGISTRI/sreg4b.v} {1 {vlog -work work -vopt -nocovercells {C:/Users/herbi/OneDrive/Desktop/Anul 3 sem 2/CLP/Laborator/L5/[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A/REGISTRI/sreg4b.v}
+Model Technology ModelSim SE vlog 6.6a Compiler 2010.03 Mar 19 2010
+-- Compiling module sreg4b
+
+Top level modules:
+	sreg4b
+
+} {} {}}

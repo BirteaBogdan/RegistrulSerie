@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\herbi\OneDrive\Desktop\Anul 3 sem 2\CLP\modelsim\win32
+vdff
+VM42kn5KjfBeI2Af[]W1nn3
+r1
+!s85 0
+31
+IRddh3TCDWU]KWkEZ0hY`V2
+Z0 dC:\Users\herbi\OneDrive\Desktop\Anul 3 sem 2\CLP\Laborator\L5\[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A\REGISTRI
+w1588794296
+8C:/Users/herbi/OneDrive/Desktop/Anul 3 sem 2/CLP/Laborator/L5/[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A/REGISTRI/dff.v
+FC:/Users/herbi/OneDrive/Desktop/Anul 3 sem 2/CLP/Laborator/L5/[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A/REGISTRI/dff.v
+L0 1
+Z1 OE;L;6.6a;45
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+!s100 bmlVfkL4D8T4aFY^XPPTe3
+vsreg4b
+V7?H[c9oK=>@Q35EnTGlHh3
+r1
+31
+I`_Nb;I4[KOnJh5IMCADbb2
+Z4 dC:\Users\herbi\OneDrive\Desktop\Anul 3 sem 2\CLP\Laborator\L5\[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A\REGISTRI
+w1588795708
+8C:/Users/herbi/OneDrive/Desktop/Anul 3 sem 2/CLP/Laborator/L5/[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A/REGISTRI/sreg4b.v
+FC:/Users/herbi/OneDrive/Desktop/Anul 3 sem 2/CLP/Laborator/L5/[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A/REGISTRI/sreg4b.v
+L0 1
+R1
+R2
+R3
+!s85 0
+!s100 _@7RCiJeJh^13J:0F4RPb3
+vtest_bench_sreg
+VjBY?a`MN=SlYP6?59D^T[1
+r1
+31
+IZa_<A<;N4PNVPR1M?d80C2
+R4
+w1588795706
+8C:/Users/herbi/OneDrive/Desktop/Anul 3 sem 2/CLP/Laborator/L5/[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A/REGISTRI/test_bench_sreg.v
+FC:/Users/herbi/OneDrive/Desktop/Anul 3 sem 2/CLP/Laborator/L5/[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A/REGISTRI/test_bench_sreg.v
+L0 1
+R1
+R2
+R3
+!s85 0
+!s100 0^7XGT5SglIoca^gGB[iH1
+vtest_sreg
+VEU]zHPmc<GciDjX7AaJ8c0
+r1
+31
+IGPJ1S>;dHaUbeD=`I=9nm2
+R4
+w1588795203
+8C:/Users/herbi/OneDrive/Desktop/Anul 3 sem 2/CLP/Laborator/L5/[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A/REGISTRI/test_sreg.v
+FC:/Users/herbi/OneDrive/Desktop/Anul 3 sem 2/CLP/Laborator/L5/[LAB_CLP_5] BIRTEA_BOGDAN_AIA_471_A/REGISTRI/test_sreg.v
+L0 1
+R1
+R2
+R3
+!s85 0
+!s100 dGog6nTQd[b`?jC;de3>l0
